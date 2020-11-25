@@ -1,13 +1,9 @@
-.container{
-  height: 200px;
+.btn{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 
-  overflow-y: scroll;
-  overflow-x: auto;
-
-  border: 5px solid red;
-}
-
-.inner{
-  background-color: dodgerblue;
-  border: 5px solid green;
+  min-width: 60px;
+  width: 100%;
+  max-width: 112px;
 }
