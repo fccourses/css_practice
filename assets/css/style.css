@@ -1,0 +1,13 @@
+.container{
+  height: 500px;
+  background-color: dodgerblue;
+
+  background-image: url('../images/test.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+
+  border: 5px solid red;
+}
+
+.inner{}
